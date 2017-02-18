@@ -1,1 +1,3 @@
 # Mobile-Mouse
+*
+!.gitignore
